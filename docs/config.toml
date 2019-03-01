@@ -47,6 +47,11 @@ enableMissingTranslationPlaceholders = false
     weight = 1
 
 [[menu.main]]
+    name = "Basic Design"
+    url = "/basic_design"
+    weight = 2
+
+[[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/chaspy_"
     weight = 2
